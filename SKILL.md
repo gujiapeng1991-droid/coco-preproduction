@@ -7,6 +7,7 @@ display_name_zh: Coco影视前期统筹
 author: user_23e58d64
 category: 创意设计
 license: MIT
+homepage: https://github.com/gujiapeng1991-droid/coco-preproduction
 agent_created: true
 tags:
   - 顺场表
