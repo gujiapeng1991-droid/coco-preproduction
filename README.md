@@ -156,6 +156,15 @@ PDF 直接读页数；DOCX / 纯文本用已知页数的集反推密度（中文
 
 ---
 
+## 安装
+
+```bash
+skillhub install coco-preproduction --namespace user_23e58d64
+```
+
+> SkillHub 详情页：<https://skillhub.cn/skills/user_23e58d64/coco-preproduction>
+> 首次上架需过安全扫描，扫描完成前下载入口可能暂不可用。
+
 ## 快速开始
 
 ```bash
