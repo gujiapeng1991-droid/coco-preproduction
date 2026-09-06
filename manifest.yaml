@@ -1,0 +1,53 @@
+name: coco-preproduction
+slug: coco-preproduction
+version: 2.0.0
+displayName: Coco影视前期统筹
+author: user_23e58d64
+category: 创意设计
+tags:
+  - 顺场表
+  - 分场
+  - 场次统计
+  - 影视统筹
+  - 剧本
+  - Excel
+  - 人物小传
+  - 人物关系
+  - 关系图谱
+  - 关系网
+  - 人物圣经
+  - 角色设定
+  - 人物功能
+  - character bible
+triggers:
+  - 顺场表
+  - Coco影视顺场表
+  - Coco影视前期统筹
+  - 前期统筹
+  - 分场
+  - 分场表
+  - 场次表
+  - 场景表
+  - 场号
+  - 场次统计
+  - 场景统计
+  - 梳理场次
+  - 排场
+  - 统筹表
+  - 主场景归组
+  - 角色出场
+  - scene breakdown
+  - 人物小传
+  - 人物关系
+  - 人物关系图
+  - 关系图谱
+  - 关系网
+  - 人物图谱
+  - 人物圣经
+  - 角色小传
+  - 人物设定
+  - 人物功能
+  - 整理人物
+  - character bible
+description_zh: "Coco影视前期统筹（v2.0 由 coco-scene-breakdown v1.3.0 与 coco-character-bible v1.0.0 合并而成，两条管线并装）：管线 A 顺场表——把剧本按「场」拆解，一场一行、场号纯数字（不用 1A/1B），交付带场景统计的 Excel，脚本自动补「主场景」列，统计 sheet 给出总场数、总页数、预估总时长（1页≈1分钟）、夜戏占比、外景占比、按主场景归组与角色出场，列序为 集·场号·日/夜·内/外·主场景·场景·氛围·内容梗概·页数·角色列组(每人一列，表头全名、格内单字缩写)·特约·群众·道具·视效·备注。管线 B 人物包——产出①人物圣经 Word（每人九块字段完整小传、次要人物速查表、关系总表、Vogler 八原型功能矩阵、主线归属、未解扣，并提炼「反派阶梯」与「同处境不同答案」两组骨架结构）②力导向关系网 HTML（零依赖单文件，自写物理引擎按关系亲疏自动聚簇，支持拖拽钉住、双击隔离邻域、滚轮缩放、关系类型与阵营双重筛选实时重组、搜索定位、深浅主题）。常规链路 A→B 串跑，三样分册交付。"
+description_en: "Coco Pre-Production Suite (v2.0, merged from coco-scene-breakdown v1.3.0 and coco-character-bible v1.0.0). Pipeline A - Scene Breakdown: splits a script into scenes, one row per scene, plain sequential numbering (no 1A/1B), delivered as a formatted Excel with an auto-generated statistics sheet (total scenes/pages/runtime, night-shoot and exterior ratios, grouping by primary location, per-actor scene counts), auto-adds a primary-location column, one narrow column per cast member (header shows full name, cell shows single-character abbreviation). Pipeline B - Character Package: (1) a Character Bible Word doc with nine-field profiles per major character, minor-character quick-reference, relationship matrix, Vogler eight-archetype function matrix, main-plot attribution and unresolved hooks, plus two extracted skeletal structures (antagonist ladder, divergent answers to the same predicament); (2) a zero-dependency single-file force-directed relationship network HTML with a hand-written physics engine, drag-to-pin, double-click isolation, wheel zoom, dual filtering by relation type and faction with live re-layout, search, and dark/light themes. Standard chain is A then B, delivered as three separate files."
